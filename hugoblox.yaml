@@ -1,5 +1,5 @@
 build:
-  hugo_version: '0.162.0'
+  hugo_version: '0.161.1'  # 0.162.0 breaks the pinned blox module (nil map in build_links)
 deploy:
   # Deployment target: github-pages, netlify, vercel, cloudflare, or none
   host: 'github-pages'

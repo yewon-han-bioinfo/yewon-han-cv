@@ -18,14 +18,23 @@ sections:
       date_format: 'January 2006'
       # Education or Experience section first?
       is_education_first: false
-  - block: resume-skills
+  - block: markdown
     content:
-      title: Skills & Hobbies
-      username: me
-  - block: resume-awards
+      title: Teaching & Tutoring
+      text: |-
+        - **Spring/Fall 2026** — Teaching Assistant, Interdisciplinary Program of Bioinformatics Seminar, Seoul National University
+        - **Spring 2024** — Teaching Assistant, Core Programming, Faculty of Liberal Education, Seoul National University
+        - **Spring 2024** — Teaching Assistant, Introduction to Programming, Faculty of Liberal Education, Seoul National University
+        - **2019–2021** — Tutor, Python Programming, Binary (departmental student club), Department of Biology, Seoul National University
+    design:
+      columns: '1'
+  - block: markdown
     content:
-      title: Awards
-      username: me
+      title: Peer Review
+      text: |-
+        Reviewer for *Protein Science*.
+    design:
+      columns: '1'
   - block: resume-languages
     content:
       title: Languages
