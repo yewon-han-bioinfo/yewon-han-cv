@@ -22,9 +22,9 @@ sections:
     content:
       title: Teaching & Tutoring
       text: |-
-        - **Spring/Fall 2026** — Teaching Assistant, Interdisciplinary Program of Bioinformatics Seminar, Seoul National University
-        - **Spring 2024** — Teaching Assistant, Core Programming, Faculty of Liberal Education, Seoul National University
-        - **Spring 2024** — Teaching Assistant, Introduction to Programming, Faculty of Liberal Education, Seoul National University
+        - **2026** — Teaching Assistant, Interdisciplinary Program of Bioinformatics Seminar, Seoul National University
+        - **Spring 2024** — Tutor, Core Programming, Faculty of Liberal Education, Seoul National University
+        - **Spring 2024** — Tutor, Introduction to Programming, Faculty of Liberal Education, Seoul National University
         - **2019–2021** — Tutor, Python Programming, Binary (departmental student club), Department of Biology, Seoul National University
     design:
       columns: '1'
